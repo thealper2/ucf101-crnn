@@ -1,0 +1,8 @@
+config
+numpy
+opencv_python_headless
+scikit_learn
+torch
+torchvision
+tqdm
+typer
